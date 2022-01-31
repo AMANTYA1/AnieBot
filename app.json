@@ -46,12 +46,12 @@
       "STRING_SESSION": {
          "description": "Telegram String Session",
          "required": false,
-         "value": ""
+         "value": "1BVtsOHIBu3BOYIadvlRQ65qxqgaVTlNAh4B35IQGxGlhzJTg3wXssWdy3ebGeYN8nfqmneGSsfwpS5GLHMKX0HdWl0mzjqCzPLKvr-Uf16uFD0CEGjhvIVXYc4PdJlyWwP27QB8QHwpLJZ5oATMLQJDzaTQMgSKLJY9y1d6EYzWaPPwPg-vn-e7WiSSUqP5raozvKJN44Q3JJwmJlcXonKEsIVDiDRRYwGVvZDF_onVDhNHXT6UhRoXBLju45Hr4-lxe3fWJuQGIpvuZ2H5vL2C8KJPh007NR43k0RzzTrnkfyGXGWSrvbA4iJeKL9Q36z2Muh4zXqyY8h4IV6jtBA222f3VO4o="
       },
       "MONGO_DB_URI": {
          "description": "MongoDB Url get from mongodb",
          "required": false,
-         "value": ""
+         "value": "mongodb+srv://Aman:Aman@cluster0.gt2bc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },      
       "BOT_ID": {
          "description": "Id of the bot",
@@ -71,12 +71,12 @@
       "HEROKU_API_KEY": {
          "description": "Heroku Account Api Key",
          "required": false,
-         "value": ""
+         "value": "301c8372-731f-4550-ba79-a3866ffc6c88"
       },
       "HEROKU_APP_NAME": {
          "description": "Heroku APP Name",
          "required": false,
-         "value": ""
+         "value": "null0191"
       }
    },
    "keywords": [
